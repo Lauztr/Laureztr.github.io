@@ -44,3 +44,17 @@ Ordered
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
 
+## Code
+
+Inline 'code'
+
+Indented code
+
+  // Some coments
+  line 1 of code
+  line 2 of code
+  line 3 of code
+
+Block code "fences"
+
+
